@@ -13,6 +13,7 @@ Before completing changes, run:
 ```bash
 python -m pytest
 python -m basedpyright
+python -m ruff check .
 ```
 
 Report any failures rather than ignoring them.
