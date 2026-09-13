@@ -1,10 +1,11 @@
 # untang
 
-`untang` is a Python package under active development.
+`untang` is a Python package for entity resolution, under active development.
+The package accepts pandas DataFrames as well as other sklearn-compatible array-like inputs.
 
 ## Status
 
-Early development. The package currently contains its initial project structure and tooling configuration.
+Early development. The public `Resovler` estimator currently provides the initial sklearn-compatible API while the matching logic is being developed.
 
 ## Requirements
 
