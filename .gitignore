@@ -8,8 +8,10 @@ __pycache__/
 htmlcov/
 build/
 dist/
+data/
 .venv/
 venv/
 ENV/
 .env
 .env.*
+main.py
